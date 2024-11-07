@@ -115,7 +115,7 @@ border: 0px solid;
     color: black;
 }
 .connect-header{
-z-index: 20;
+z-index: 5;
 position: fixed;
 }
 

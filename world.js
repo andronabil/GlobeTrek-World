@@ -17,7 +17,7 @@ exitButton.addEventListener("click",()=>{
 paymentNow.addEventListener("click",()=>{
     setTimeout((eo) => {
         bigContainer.classList.add("display-none")
-    }, 3000);
+    }, 2000);
 })
 
 
